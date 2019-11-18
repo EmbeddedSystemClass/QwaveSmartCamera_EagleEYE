@@ -1,5 +1,8 @@
 # QwaveSmartCamera_EagleEYE
  Smart Camera based on Raspberry Pi CM3+ compute module
+  
+  Amornthep Phunsin
+  amornthep@qwavesys.com
 
 <img src="https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/EagleEYE_000.png" height="550">
  
