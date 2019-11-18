@@ -1,0 +1,1 @@
+sudo gcc -shared -o /usr/local/natinst/lib/libhello.so -fPIC /home/xuser/eagleEYE_basic_cpp_exe-libs-example/hellolib.cpp
