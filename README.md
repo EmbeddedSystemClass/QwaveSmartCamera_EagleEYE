@@ -14,4 +14,4 @@
 
 <img src="https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/EagleEYE_018.jpg" height="500">
 
-<img src="https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/EagleEYE_019.png" height="500">
+<img src="https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/EagleEYE_019.png" height="400">
