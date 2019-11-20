@@ -5,6 +5,7 @@
   amornthep@qwavesys.com
    
   Design and manufactured in Bangkok, Thailand.
+  
   HW design Copyright by QWaveSystems
 
 <img src="https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/EagleEYE_000.png" height="550">
