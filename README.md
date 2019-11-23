@@ -12,7 +12,7 @@
 
 | **Product Specificaton and User Guide** |  Document
 | --- | --- |
-| EagleEYE v1.0 | [PDF datasheet](https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/User_Manual_EagleEYE_SmartCamera_Q-Wave-Systems_1.0.1.pdf) |
+| EagleEYE v1.0 | [PDF datasheet](https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/User_Manual_EagleEYE_SmartCamera_Q-Wave-Systems_1.0.2.pdf) |
 
 ## Schematics
 
