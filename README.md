@@ -21,6 +21,16 @@
 | EagleEYE v1.0 Uno | [PDF schematics](https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/1.Schematic_QWA16-SmartCam_V7_Uno.PDF) |
 | EagleEYE v1.0 Industrial | [PDF schematics](https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/2.Schematic_QWA16-SmartCam_V7_Industrial.PDF) |
 
+## PCB Top and Bottom
+
+| **Product** |  Document
+| --- | --- |
+| EagleEYE v1.0 Uno -Top  | [PDF TOP](https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/1.PCB_TOP_UNO.PDF) |
+| EagleEYE v1.0 Uno -Bottom | [PDF BOTTOM](https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/1.PCB_Bottom_UNO.PDF) |
+| EagleEYE v1.0 Industrial -Top | [PDF TOP](https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/2.PCB_Top.PDF) |
+| EagleEYE v1.0 Industrial -Bottom | [PDF BOTTOM](https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/2.PCB_Bottom.PDF) |
+
+
 ## PCB PDF3D
 
 | **Product** |  Document
@@ -28,7 +38,7 @@
 | EagleEYE v1.0 Uno | [PDF 3D](https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/1.PCB_3D_UNO.PDF) |
 | EagleEYE v1.0 Industrial | [PDF 3D](https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/2.PCB-Industrial-3D.pdf) |
 
-## PCB BOM
+## BOM
 
 | **Product** |  Document
 | --- | --- |
@@ -45,7 +55,7 @@
 
 | **Product** |  Document
 | --- | --- |
-| EagleEYE v1.0 Industrial | [Ongoing]() |
+| EagleEYE v1.0 Industrial | [Ongoing](https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE) |
 
 
 <img src="https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/EagleEYE_000.png" height="550">
