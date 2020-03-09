@@ -65,7 +65,7 @@
 
 | **Product** |  Document
 | --- | --- |
-| EagleEYE v1.0 Industrial Desing view | [PDF file](http://ftp1.qwavesys.com/repository/QwaveSmartCamera_EagleEYE/EagleEye_Smart_Camera_Design_View.PDF) |
+| EagleEYE v1.0 Industrial Design view | [PDF file](http://ftp1.qwavesys.com/repository/QwaveSmartCamera_EagleEYE/EagleEye_Smart_Camera_Design_View.PDF) |
 | EagleEYE v1.0 Industrial Dimension| [PDF file](http://ftp1.qwavesys.com/repository/QwaveSmartCamera_EagleEYE/EagleEye_Smart_Camera_Dimension.PDF) |
 | EagleEYE v1.0 Industrial Enclosure Dimension| [PDF file](http://ftp1.qwavesys.com/repository/QwaveSmartCamera_EagleEYE/EagleEye_Smart_Camera_Enclosure_Dimension.PDF) |
 | EagleEYE v1.0 Industrial Heatsink Dimension| [PDF file](http://ftp1.qwavesys.com/repository/QwaveSmartCamera_EagleEYE/EagleEye_Smart_Camera_Heatsink_Dimension.PDF) |
