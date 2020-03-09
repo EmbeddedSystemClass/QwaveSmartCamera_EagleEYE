@@ -55,10 +55,19 @@
 
 | **Product** |  Document
 | --- | --- |
-| EagleEYE v1.0 Industrial | [STEP file](https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/1.QWA17(Uno).step) |
-| EagleEYE v1.0 Industrial with lens| [STEP file](https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/2.QWA17_V7(Industrial).step) |
-| EagleEYE v1.0 Industrial Body| [STEP file](https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/2.QWA17_V7(Industrial).step) |
-| EagleEYE v1.0 Industrial heat sink| [STEP file](https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/2.QWA17_V7(Industrial).step) |
+| EagleEYE v1.0 Industrial | [STEP file](http://ftp1.qwavesys.com/repository/QwaveSmartCamera_EagleEYE/EagleEye Smart Camera.STEP) |
+| EagleEYE v1.0 Industrial with lens| [STEP file](http://ftp1.qwavesys.com/repository/QwaveSmartCamera_EagleEYE/EagleEye Smart Camera.STEP lens.STEP) |
+| EagleEYE v1.0 Industrial Body| [STEP file](http://ftp1.qwavesys.com/repository/QwaveSmartCamera_EagleEYE/EagleEye Smart Camera Body.STEP) |
+| EagleEYE v1.0 Industrial Heatsink| [STEP file](http://ftp1.qwavesys.com/repository/QwaveSmartCamera_EagleEYE/EagleEye Smart Camera Heat Sink.STEP) |
+
+## Dimension Smart Camera,Enclosure and Heatsink 
+
+| **Product** |  Document
+| --- | --- |
+| EagleEYE v1.0 Industrial Desing view | [PDF file](http://ftp1.qwavesys.com/repository/QwaveSmartCamera_EagleEYE/EagleEye Smart Camera Design View.PDF) |
+| EagleEYE v1.0 Industrial Dimension| [PDF file](http://ftp1.qwavesys.com/repository/QwaveSmartCamera_EagleEYE/EagleEye Smart Camera Dimension.PDF) |
+| EagleEYE v1.0 Industrial Enclosure Dimension| [PDF file](http://ftp1.qwavesys.com/repository/QwaveSmartCamera_EagleEYE/EagleEye Smart Camera Enclosure Dimension.PDF) |
+| EagleEYE v1.0 Industrial Heatsink Dimension| [PDF file](http://ftp1.qwavesys.com/repository/QwaveSmartCamera_EagleEYE/EagleEye Smart Camera Heat sink Dimension.PDF) |
 
 ## Compliance
 
