@@ -2,7 +2,9 @@
  Smart Camera based on Raspberry Pi CM3+ compute module
   
   Contact Me :
+  
   Amornthep Phunsin
+  
   Email: amornthep@qwavesys.com
    
   Design and manufactured in Bangkok, Thailand.
