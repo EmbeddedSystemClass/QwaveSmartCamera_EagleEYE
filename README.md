@@ -6,7 +6,31 @@
   Email: amornthep@qwavesys.com
    
   Design and manufactured in Bangkok, Thailand.
+  
+## EagleEye Smart Camera Features & Specifications:
+ 
+ SoM – Raspberry Pi CM3+ with Broadcom BCM2837B0 quad core cortex-A53 processor, 1 GB RAM, and 16GB or 32 GB flash
 
+ Camera – 5 MP OV5647 image sensor,  CS/M12 lens holder + 4mm CS lens
+
+ Video Output – mini HDMI port
+ 
+ Networking – 10/100M Ethernet
+ 
+ USB – 1x USB 2.0 host port up to 1.2A
+ 
+ Expansion = Uno – 4x 3.3V digital input; 4x 3.3V digital output; both via 2.5mm pitch headers
+ 
+ Expansion = Industrial – 4x 24V digital inputs; 4x 24V digital outputs ; both via terminal blocks,Misc – RTC (industrial only), watchdog
+ 
+ Safety (Industrial version only) –  Over-voltage/current/polarity protection, thermal shutdown,
+ 
+ Power Supply = Uno – 5V DC input,Industrial – 12V-24VDC input; switching power supply
+ 
+ Temperature Range – Industrial version: -40°C – +85°C
+
+## Target applications:
+Embedded vision, indsutrial machine vision, computer vision, vision/image processing, machine learning, drones, robots, ADAS, and AGV (Automated Guided Vehicles). Here’s a demo showing the camera quickly reading a barcode from a moving object.
   
 ## Datasheet
 
