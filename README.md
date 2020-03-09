@@ -44,12 +44,21 @@
 | --- | --- |
 | EagleEYE v1.0 Industrial | [Excel File](https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/BOM_Industrial_QWA17_EagleEye_V7.xls) |
 
-## CAD files
+## PCB CAD files
 
 | **Product** |  Document
 | --- | --- |
 | EagleEYE v1.0 Uno | [STEP file](https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/1.QWA17(Uno).step) |
 | EagleEYE v1.0 Industrial| [STEP file](https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/2.QWA17_V7(Industrial).step) |
+
+## Enclosure CAD files
+
+| **Product** |  Document
+| --- | --- |
+| EagleEYE v1.0 Industrial | [STEP file](https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/1.QWA17(Uno).step) |
+| EagleEYE v1.0 Industrial with lens| [STEP file](https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/2.QWA17_V7(Industrial).step) |
+| EagleEYE v1.0 Industrial Body| [STEP file](https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/2.QWA17_V7(Industrial).step) |
+| EagleEYE v1.0 Industrial heat sink| [STEP file](https://github.com/QWaveSystems/QwaveSmartCamera_EagleEYE/blob/master/2.QWA17_V7(Industrial).step) |
 
 ## Compliance
 
