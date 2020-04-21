@@ -7,7 +7,7 @@
  
  https://www.qwaveshop.com/en
  
-  Contact Me :Amornthep Phunsin
+  Contact Me : Amornthep Phunsin
   
   Email: amornthep@qwavesys.com
   
