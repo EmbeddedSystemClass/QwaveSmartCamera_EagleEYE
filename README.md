@@ -1,13 +1,16 @@
 # QwaveSmartCamera_EagleEYE
  Smart Camera based on Raspberry Pi CM3+ compute module
-  
-  Contact Me :
-  
-  Amornthep Phunsin
+ 
+ Design and manufactured in Bangkok, Thailand.
+ 
+ You can support this project by get it from here.
+ https://www.qwaveshop.com/en
+ 
+ Contact Me :Amornthep Phunsin
   
   Email: amornthep@qwavesys.com
-   
-  Design and manufactured in Bangkok, Thailand.
+  Twitter: https://twitter.com/QwaveSystems
+  LinkedIn: linkedin.com/in/amornthep-phunsin
   
 ## EagleEye Smart Camera Features & Specifications:
  
