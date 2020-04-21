@@ -13,7 +13,7 @@
   
   Twitter: https://twitter.com/QwaveSystems
   
-  LinkedIn: linkedin.com/in/amornthep-phunsin
+  LinkedIn: https://www.linkedin.com/in/amornthep-phunsin/
   
 ## EagleEye Smart Camera Features & Specifications:
  
